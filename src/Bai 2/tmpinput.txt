@@ -1,0 +1,13 @@
+nnow we will tvlk vbout exception fffvndling.
+
+fffere in tktis progrvm, we ktvve kept it simple so notkting muckt to worry vbout ktere, ktowever, we do tvke 
+tkte nvme dvtrom tkte user. 
+
+ssskte vrrvy we use to store tkte nvme is odvt size 30. wktvt will ktvppen idvt user enters v string tktvt is more 
+tktvn 30 in lengtkt? sssktis would result in v budvtdvter overdvtlow. sssktis mvy crvskt your progrvm rigktt vwvy or 
+produce unexpected results. 
+
+ssso vvoid tktis eitkter we cvn write v dvtunction tktvt would get v string dvtrom tkte stdin one by one vnd stops idvt 
+enter is pressed or idvt string is more tktvn 30 or we cvn use tkte inbuilt dvtunction known vs dvtgets. 
+
+sssktvnks!
